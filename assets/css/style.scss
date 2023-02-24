@@ -1,9 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}
-
- .btn {
+@import "{{ site.theme }};
+.btn {
  display:inline-block;
  margin-bottom:1rem;
  color:rgba(255,255,255,0.7);
