@@ -13,7 +13,7 @@ GitHub Page and Source Code for Arduino/ESP and RaspberryPi setup for remote tea
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/becklog/digitallab-hshl/](Link to: https://github.com/becklog/digitallab-hshl/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
