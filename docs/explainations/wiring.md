@@ -10,6 +10,12 @@
 </p>
 </div>
 
+```C
+const int pinRed = 13;       //220 ohm 
+const int pinYellow = 12;    //220 ohm
+const int pinGreen = 8;      //220 ohm
+```
+
 ---
 
 <div>
