@@ -14,9 +14,9 @@ The developed system can be installed and packed into a standardized Eurobox con
   <!--  - [_Alternative: RaspberryPi Image_]()-->
   - [Administration](./docs/explainations/administration.md)
   - [Features](./docs/explainations/features-use-cases.md)
-  - [External Ressources](./docs/explainations/features-use-cases.md)
+  - [External Ressources]()
   - [Use Cases]()
-- [Bill of Materials](./docs/bill-of-materials.md.md)
+- [Bill of Materials](./docs/bill-of-materials.md)
 - [Wiring Diagrams](./docs/explainations/wiring.md)
 
 ## License
