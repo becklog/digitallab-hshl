@@ -21,8 +21,9 @@ The developed system can be installed and packed into a standardized Eurobox con
 
 ## License
 <div class="oer-cc-licensebox"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
-  <img src="./img/CC BY-SA 4.0.svg" alt="CC BY-SA 4.0"></a><br>Weiternutzung als OER ausdrücklich erlaubt: Dieses Werk und dessen Inhalte sind - sofern nicht anders angegeben - lizenziert unter <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" rel="license" target="_blank">CC BY-SA 4.0</a>. Nennung gemäß <a href="https://open-educational-resources.de/oer-tullu-regel/">TULLU-Regel</a> bitte wie folgt: <i><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"<a href="https://github.com/becklog/digitallab-hshl" target="_blank" xmlns:cc="http://creativecommons.org/ns#" rel="cc:attributionURL">digiFellow digital remote lab</a>"</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"><a href="www.hshl.de" target="_blank">Beck, Brodo, Quintanila-Docmac, Henkler, Rettberg, Rother</a></span>, Lizenz: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">CC BY-SA 4.0</a></i>.  </div>
+  <img src="./img/CC BY-SA 4.0.svg" alt="CC BY-SA 4.0"></a><br>Weiternutzung als OER ausdrücklich erlaubt: Dieses Werk und dessen Inhalte sind - sofern nicht anders angegeben - lizenziert unter <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" rel="license" target="_blank">CC BY-SA 4.0</a>. Nennung gemäß <a href="https://open-educational-resources.de/oer-tullu-regel/">TULLU-Regel</a> bitte wie folgt: <i><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"<a href="https://github.com/becklog/digitallab-hshl" target="_blank" xmlns:cc="http://creativecommons.org/ns#" rel="cc:attributionURL">digiFellow digital remote lab</a>"</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"><a href="www.hshl.de" target="_blank">Beck, Brodo, Quintanila-Docmac, Henkler, Rettberg, Rother</a></span>, Lizenz: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">CC BY-SA 4.0</a></i>. </div>
 
+    
 Das Projekt wurde im Rahmen des [**Fellowships für Innovationen in der digitalen Hochschullehre (digi-Fellows)**](https://www.dh.nrw/kooperationen/Digi-Fellows-2) umgesetzt.
 
 ## Contributing
@@ -32,7 +33,7 @@ Should individuals wish to host the project independently and implement modifica
 ## Citation (Repository)
 ```bibtex
 @misc{digifellow_digital_remote_lab,
-  author = {Beck, Brodo and Quintanila-Docmac, Henkler and Retttberg, Rother},
+  author = {Beck, Brodo and Quintanilla-Docmac, Henkler and Retttberg, Rother},
   title = {digiFellow digital remote lab},
   year = {2022},
   publisher = {GitHub},
