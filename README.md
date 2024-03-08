@@ -12,22 +12,30 @@ The developed system can be installed and packed into a standardized Eurobox con
 #### Abstract
 Teaching in the area of embedded systems is challenging because both software and hardware development must be considered in an integrated manner. The experience gained through the practical hardware-related implementation of prototypes cannot simply be replaced by simulations. The question is, however, how can students gain as much practical experience as possible while taking into account real laboratory constraints? We present an approach that allows students to gain practical experience via virtual access to laboratory setups, which allows them to work in groups remotely and then continue their work in the labs, providing a similar experience as under normal lab conditions. For educators, we introduce a flexible environment that can be adopted to specialized embedded courses due to the used components and methodology of the ADDIE teaching model.
 
-## Table of Contents
+```mermaid
+graph LR
+    A((Analysis))
+    B((Design))
+    C[[Development]]
+    D[[Implementation]]
+    E(Evaluation)
 
+    A --> B --> C --> D --> E --> A
+```
+
+
+## Table of Contents
 - [Installation / Setup](#installation--setup)
 - [Administration](#administration)
 - [Features and Use Cases](#features-and-use-cases)
 
 ## Installation / Setup
-
 For detailed installation and setup instructions, please refer to the [Installation / Setup guide](./installation-setup.md).
 
 ## Administration
-
 To learn about administering this project, including configuration options, management commands, and more, see the [Administration guide](./administration.md).
 
 ## Features and Use Cases
-
 For a comprehensive list of features, examples of use cases, and how to get the most out of this project, visit the [Features and Use Cases documentation](./features-use-cases.md).
 
 ## Contributing
@@ -37,6 +45,8 @@ Should individuals wish to host the project independently and implement modifica
 ## License
 <div class="oer-cc-licensebox"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
   <img src="./img/CC BY-SA 4.0.svg" alt="CC BY-SA 4.0"></a><br>Weiternutzung als OER ausdrücklich erlaubt: Dieses Werk und dessen Inhalte sind - sofern nicht anders angegeben - lizenziert unter <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" rel="license" target="_blank">CC BY-SA 4.0</a>. Nennung gemäß <a href="https://open-educational-resources.de/oer-tullu-regel/">TULLU-Regel</a> bitte wie folgt: <i><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"<a href="https://github.com/becklog/digitallab-hshl" target="_blank" xmlns:cc="http://creativecommons.org/ns#" rel="cc:attributionURL">digiFellow digital remote lab</a>"</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"><a href="www.hshl.de" target="_blank">Beck, Brodo, Quintanila-Docmac, Henkler, Rettberg, Rother</a></span>, Lizenz: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">CC BY-SA 4.0</a></i>.  </div>
+
+Das Projekt wurde im Rahmen des [**Fellowships für Innovationen in der digitalen Hochschullehre (digi-Fellows)**](https://www.dh.nrw/kooperationen/Digi-Fellows-2) umgesetzt.
 
 ## Citation
 ### Respository
