@@ -9,21 +9,6 @@ We wanted to create a **hybrid-/remote-environment which enables remote flashing
 
 The developed system can be installed and packed into a standardized Eurobox container, observed via camera, or used in an on-site / hybrid class concept, where the wiring and routing of the components is done to safe time in the labs.
 
-#### Abstract
-Teaching in the area of embedded systems is challenging because both software and hardware development must be considered in an integrated manner. The experience gained through the practical hardware-related implementation of prototypes cannot simply be replaced by simulations. The question is, however, how can students gain as much practical experience as possible while taking into account real laboratory constraints? We present an approach that allows students to gain practical experience via virtual access to laboratory setups, which allows them to work in groups remotely and then continue their work in the labs, providing a similar experience as under normal lab conditions. For educators, we introduce a flexible environment that can be adopted to specialized embedded courses due to the used components and methodology of the ADDIE teaching model.
-
-```mermaid
-graph LR
-    A((Analysis))
-    B((Design))
-    C[[Development]]
-    D[[Implementation]]
-    E(Evaluation)
-
-    A --> B --> C --> D --> E --> A
-```
-
-
 ## Table of Contents
 - [Installation / Setup](#installation--setup)
 - [Administration](#administration)
@@ -60,6 +45,7 @@ Das Projekt wurde im Rahmen des [**Fellowships für Innovationen in der digitale
   howpublished = {\url{https://github.com/becklog/digitallab-hshl/}},
 }
 ```
+## Publications
 ### INDIN 2023 Paper
 - [C. Beck, L. Brodo, C. B. Q. Docmac, S. Henkler, A. Rettberg and K. Rother, "Introducing a group-based remote laboratory for embedded education," 2023 IEEE 21st International Conference on Industrial Informatics (INDIN), Lemgo, Germany, 2023, pp. 1-6](https://ieeexplore.ieee.org/document/10218010) [doi: 10.1109/INDIN51400.2023.10218010.](https://doi.org/10.1109/INDIN51400.2023.10218010)
 
@@ -77,5 +63,17 @@ Das Projekt wurde im Rahmen des [**Fellowships für Innovationen in der digitale
   doi={10.1109/INDIN51400.2023.10218010},
   ISSN={2378-363X},
   month={July},}
+```
+#### Abstract
+Teaching in the area of embedded systems is challenging because both software and hardware development must be considered in an integrated manner. The experience gained through the practical hardware-related implementation of prototypes cannot simply be replaced by simulations. The question is, however, how can students gain as much practical experience as possible while taking into account real laboratory constraints? We present an approach that allows students to gain practical experience via virtual access to laboratory setups, which allows them to work in groups remotely and then continue their work in the labs, providing a similar experience as under normal lab conditions. For educators, we introduce a flexible environment that can be adopted to specialized embedded courses due to the used components and methodology of the ADDIE teaching model.
 
+```mermaid
+graph LR
+    A((Analysis))
+    B((Design))
+    C[[Development]]
+    D[[Implementation]]
+    E(Evaluation)
+
+    A --> B --> C --> D --> E --> A
 ```
