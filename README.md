@@ -4,6 +4,11 @@
   </a>
 </p>
 
+#### About
+We wanted to create a **hybrid-/remote-environment which enables remote flashing of microcontrollers** _(in our Case Arduino Uno/Mega)_ via a low-cost server _(Raspberry Pi 3)_, so that students can test standard sensors/actuators _(e.g. X40 sensor kit)_ along a self-paced learning-path.
+
+The developed system can be installed and packed into a standardized Eurobox container, observed via camera, or used in an on-site / hybrid class concept, where the wiring and routing of the components is done to safe time in the labs.
+
 #### Abstract
 Teaching in the area of embedded systems is challenging because both software and hardware development must be considered in an integrated manner. The experience gained through the practical hardware-related implementation of prototypes cannot simply be replaced by simulations. The question is, however, how can students gain as much practical experience as possible while taking into account real laboratory constraints? We present an approach that allows students to gain practical experience via virtual access to laboratory setups, which allows them to work in groups remotely and then continue their work in the labs, providing a similar experience as under normal lab conditions. For educators, we introduce a flexible environment that can be adopted to specialized embedded courses due to the used components and methodology of the ADDIE teaching model.
 
