@@ -16,7 +16,7 @@ The developed system can be installed and packed into a standardized Eurobox con
   - [Features](./docs/explainations/features-use-cases.md)
   - [External Ressources](./docs/explainations/features-use-cases.md)
   - [Use Cases]()
-- [Bill of Materials](./docs/bill-of-materials-equipment-overview.md)
+- [Bill of Materials](./docs/bill-of-materials.md.md)
 - [Wiring Diagrams](./docs/explainations/wiring.md)
 
 ## License
