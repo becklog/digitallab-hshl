@@ -10,13 +10,13 @@ We wanted to create a **hybrid-/remote-environment which enables remote flashing
 The developed system can be installed and packed into a standardized Eurobox container, observed via camera, or used in an on-site / hybrid class concept, where the wiring and routing of the components is done to safe time in the labs.
 
 ## Table of Contents
-- [Setup and Installation Guide](./installation-setup.md)
+- [Setup and Installation Guide](./docs/explainations/installation-setup.md)
   <!--  - [_Alternative: RaspberryPi Image_]()-->
-  - [Administration](./administration.md)
-  - [Features](./features-use-cases.md)
-  - [External Ressources](./features-use-cases.md)
+  - [Administration](./docs/explainations/administration.md)
+  - [Features](./docs/explainations/features-use-cases.md)
+  - [External Ressources](./docs/explainations/features-use-cases.md)
 - [Use Cases]()
-- [Bill of Materials](./bill-of-materials-equipment-overview.md)
+- [Bill of Materials](./docs/bill-of-materials-equipment-overview.md)
 - [Wiring Diagrams](./docs/wiring_diagrams/wiring_diagrams.md)
 
 ## License
