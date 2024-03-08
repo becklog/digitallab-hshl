@@ -11,9 +11,8 @@ graph LR
   gunicorn --> nginx
   nginx -- HTTP --> userFQDN
 
-# Brainwrite for scalability.
+# Some thoughts on a scalable application
 ### NGINX
-
 Let's assume we need to scale our application, and one instance is not working anymore. So we increase the instances on new ports.
 For our users nginx solves that they can access it directly from their default browser settings (like :443 for SSL).
 It is redirecting to the ports.
