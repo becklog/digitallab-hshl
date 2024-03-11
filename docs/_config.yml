@@ -1,3 +1,29 @@
 theme: jekyll-theme-minimal
-title: digitallab-hshl
-description: digital-lab landing page
+source: docs
+
+# Only include the landing page and CSS assets
+include:
+  - landingpage.md
+  - assets/css/style.css
+
+# Exclude everything else to ensure no other page is processed or shown
+exclude:
+  - README.md
+  - LICENSE
+  - "*.html"
+  - "*.yml"
+  - "!docs/"
+  - "docs/*"
+  - "!docs/landingpage.md"
+  - "assets/"
+  - "!assets/css/"
+  - "!assets/css/theme.css"
+
+# Set baseurl if your site is not at the root
+# baseurl: "/repository-name" # you might need to adjust this based on your GitHub Pages setup
+
+# Overriding theme defaults (optional)
+sass:
+  style: compressed # Minify the CSS
+
+# Specify any additional configurations here
