@@ -25,6 +25,11 @@
 
 # Scenario Driven Coding Class
 ## Intersection Scenario
+<p align="center">
+  <a href="https://becklog.github.io/digitallab-hshl/">
+    <img src="../img/df_colored_intersection.jpg" alt="digitallab.hshl.org logo" style="width: 100%;">
+  </a>
+</p>
 ## Color Sensor
 
 # Component Based Coding Class
