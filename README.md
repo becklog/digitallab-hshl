@@ -18,6 +18,26 @@ The developed system can be installed and packed into a standardized Eurobox con
   - [Use Cases]()
 - [Bill of Materials](./docs/bill-of-materials.md)
 - [Wiring Diagrams](./docs/explainations/wiring.md)
+- [Learning Path](./docs/learning_path.md)
+
+### Example Use Cases
+
+| Stage        | Goals                           | Example                                 |
+|--------------|---------------------------------|-----------------------------------------|
+| **Beginner** | Concept of time                 | `delay()`, `millis()`                   |
+|              | Concept of PWM                  | LEDs, RGB-LEDs                          |
+|              | Analog inputs                   | `analogRead()`                          |
+|              | Digital I/O                     | `digitalRead()`, `digitalWrite()`       |
+| **Intermediate** | Using C-Libraries             | Displays                                |
+|              | Multiplexing                    | 8x8 LEDs                                |
+|              | Voltage measurement             | Power LED                               |
+|              | Control motors                  | Servo, stepper                          |
+|              | Read / debounce buttons         | With servo trigger                      |
+|              | And more...                     | ...                                     |
+| **Advanced** | Machine to machine communication | Bus or network                          |
+|              | IoT Protocols                   | TCP/IP, UDP                             |
+|              | RESTful messages                | MQTT, HTTP, OSC                         |
+|              | Traffic intersection            | Use Case with Multi-LEDs     
 
 ## License
 <div class="oer-cc-licensebox"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
