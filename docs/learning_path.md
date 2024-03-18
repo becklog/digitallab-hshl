@@ -30,7 +30,15 @@
     <img src="../img/df_colored_intersection.jpg" alt="digitallab.hshl.org logo" style="width: 100%;">
   </a>
 </p>
+
+- The image above mimics a four street intersection (oriented like a +)
+- You can realize and solve the intersection based on the following events
+  - The button-press e.g. from a pedestrian can be pressed via a SG90 servo motor. This can also be used to debounce the button correctly.
+  - In each corner of the simulator you have indicators for the pedestrian lights.
+  - In the middle of the simulator you have access to an RYB-traffic light in all four directions.
+
 ## Color Sensor
+- Color Sensor and NeoPixel LED Ring are in parallel, so you can display RGB-colors and also analyze and output the detected colors via serial.print()
 
 # Component Based Coding Class
 ### Additional Interesting Sensors and Modules for Future Projects
