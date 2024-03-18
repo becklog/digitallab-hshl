@@ -9,6 +9,12 @@ We wanted to create a **hybrid-/remote-environment which enables remote flashing
 
 The developed system can be installed and packed into a standardized Eurobox container, observed via camera, or used in an on-site / hybrid class concept, where the wiring and routing of the components is done to safe time in the labs.
 
+<p align="center">
+  <a href="https://becklog.github.io/digitallab-hshl/">
+    <img src="./img/df_render.jpg" alt="View into the Box" style="width: 100%;">
+  </a>
+</p>
+
 ## Table of Contents
 - [Setup and Installation Guide](./docs/explainations/installation-setup.md)
   <!--  - [_Alternative: RaspberryPi Image_]()-->
