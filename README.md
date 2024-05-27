@@ -73,7 +73,7 @@ Should individuals wish to host the project independently and implement modifica
 
 ```bibtex
 @INPROCEEDINGS{10218010,
-  author={Beck, Christopher and Brodo, Luca and Docmac, Camila Belen Quintanilla and Henkler, Stefan and Rettberg, Achim and Rother, Kristian},
+  author={Beck, Brodo, Docmac, Henkler, Rettberg and Rother},
   booktitle={2023 IEEE 21st International Conference on Industrial Informatics (INDIN)}, 
   title={Introducing a group-based remote laboratory for embedded education}, 
   year={2023},
